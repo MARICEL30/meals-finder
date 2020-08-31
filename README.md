@@ -1,1 +1,1 @@
-# meals-finder web-app made with TheMealDB API.
+# Meals-finder web-app made with TheMealDB API.
